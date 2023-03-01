@@ -6,7 +6,7 @@ class FirstWindow : Window
 {
     Notebook topNotebook = new Notebook()
     {
-        Scrollable = true, //Прокрутка сторінок
+        Scrollable = true, //Прокрутка сторінок блокнота
         EnablePopup = true,
         BorderWidth = 0,
         ShowBorder = false,

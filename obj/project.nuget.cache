@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zjl0gjxhHpcledC84rbGOCMZtT38RtRj8Asgn9bmUIUyWBSI9yAMM2n+BXEeBdqdBYvpEDvUfU3hThnlDvFxzA==",
+  "success": true,
+  "projectFilePath": "/home/tarachom/Projects/Other/Gtk1.7/Gtk1.7.csproj",
+  "expectedPackageFiles": [
+    "/home/tarachom/.nuget/packages/atksharp/3.24.24.38/atksharp.3.24.24.38.nupkg.sha512",
+    "/home/tarachom/.nuget/packages/cairosharp/3.24.24.38/cairosharp.3.24.24.38.nupkg.sha512",
+    "/home/tarachom/.nuget/packages/gdksharp/3.24.24.38/gdksharp.3.24.24.38.nupkg.sha512",
+    "/home/tarachom/.nuget/packages/giosharp/3.24.24.38/giosharp.3.24.24.38.nupkg.sha512",
+    "/home/tarachom/.nuget/packages/glibsharp/3.24.24.38/glibsharp.3.24.24.38.nupkg.sha512",
+    "/home/tarachom/.nuget/packages/gtksharp/3.24.24.38/gtksharp.3.24.24.38.nupkg.sha512",
+    "/home/tarachom/.nuget/packages/pangosharp/3.24.24.38/pangosharp.3.24.24.38.nupkg.sha512"
+  ],
+  "logs": []
+}
